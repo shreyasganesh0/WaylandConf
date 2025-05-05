@@ -47,3 +47,5 @@ keybind = ctrl+shift+o=new_split:right
 keybind = ctrl+shift+e=new_split:down
 keybind = ctrl+shift+[=goto_split:previous
 keybind = ctrl+shift+]=goto_split:next
+theme = /home/shreyas/.cache/wal/colors-ghostty
+shell-integration = bash
