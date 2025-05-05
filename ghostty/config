@@ -1,5 +1,5 @@
 # This is the configuration file for Ghostty.
-#
+
 # This template file has been automatically created at the following
 # path since Ghostty couldn't find any existing config files on your system:
 #
@@ -47,5 +47,8 @@ keybind = ctrl+shift+o=new_split:right
 keybind = ctrl+shift+e=new_split:down
 keybind = ctrl+shift+[=goto_split:previous
 keybind = ctrl+shift+]=goto_split:next
+
 theme = /home/shreyas/.cache/wal/colors-ghostty
 shell-integration = bash
+
+background-opacity = 0.2
